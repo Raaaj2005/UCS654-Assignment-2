@@ -37,7 +37,7 @@ We evaluated the samples using the following five models:
 ### Performance Table
 The table below shows the accuracy scores (%) for each model across the different sampling techniques.
 
-                     Simple Random  Systematic  Stratified  Cluster  Bootstrap
+                     
 Logistic Regression          84.38       90.62       90.62   100.00      93.75
 Decision Tree                90.62       96.88       96.88    97.56      96.88
 Random Forest                98.44       98.44      100.00   100.00     100.00
@@ -54,4 +54,5 @@ Based on the accuracy scores:
 ## Setup & Execution
 1.  **Platform:** The code was developed and executed in Google Colab.
 2.  **Libraries:** `pandas`, `numpy`, `sklearn`, `imblearn`.
+
 3.  **Execution:** Run the `Sampling-Techniques.ipynb` notebook to reproduce the results.
