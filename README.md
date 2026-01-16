@@ -37,7 +37,7 @@ We evaluated the samples using the following five models:
 ### Performance Table
 The table below shows the accuracy scores (%) for each model across the different sampling techniques.
 
-
+![Performance Table](Performance-Table.png)
 
 ### Result Analysis
 Based on the accuracy scores:
@@ -51,3 +51,4 @@ Based on the accuracy scores:
 2.  **Libraries:** `pandas`, `numpy`, `sklearn`, `imblearn`.
 
 3.  **Execution:** Run the `Sampling-Techniques.ipynb` notebook to reproduce the results.
+
