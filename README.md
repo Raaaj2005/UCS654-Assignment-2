@@ -37,12 +37,7 @@ We evaluated the samples using the following five models:
 ### Performance Table
 The table below shows the accuracy scores (%) for each model across the different sampling techniques.
 
-                     
-Logistic Regression          84.38       90.62       90.62   100.00      93.75
-Decision Tree                90.62       96.88       96.88    97.56      96.88
-Random Forest                98.44       98.44      100.00   100.00     100.00
-SVM                          90.62       95.31       98.44   100.00     100.00
-KNN                          90.62       87.50       92.19    92.68      96.88
+
 
 ### Result Analysis
 Based on the accuracy scores:
